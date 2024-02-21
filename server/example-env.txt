@@ -1,0 +1,15 @@
+PORT="3001"
+DB_URL="mongodb+srv://YOUR_USERNAME:YOUR_PW@examplecluster.stuff.mongodb.net/YOUR_DB?retryWrites=true&w=majority"
+ROOT_URL="http://localhost:3001/api"
+ORIGIN="http://localhost:5173"
+PRIVATE_KEY="YOUR_KEY_RANDOM_VALUES_dlksfhewofh4TOfasIOvN%GOGI46UWP4OTUP6O26%$#"
+
+client_id="YOUR_CLIENT_ID"
+project_id="YOUR_PROJECT_ID"
+client_secret="YOUR_SECRET_RANDOM_VALUES_8942tnlvkdnaldvnli6840"
+javascript_origins=["http=//localhost=3001","http=//localhost=5173","http=//localhost"]
+
+authz_redirect_uri="http://localhost:5173/authz"
+
+gmail_scope="https://mail.google.com/"
+
